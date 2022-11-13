@@ -2,7 +2,7 @@
 using RabbitMQ.Client.Events;
 using System.Text;
 
-Console.Title = "Receive";
+Console.Title = "Receiver";
 
 var factory = new ConnectionFactory() { HostName = "localhost" };
 

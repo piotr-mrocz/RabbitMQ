@@ -120,9 +120,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nauka\\Repos\\RabbitMQ\\ReceiveRabbitMQ\\ReceiveRabbitMQ\\ReceiveRabbitMQ.csproj",
-      "projectName": "ReceiveRabbitMQ",
-      "projectPath": "D:\\Nauka\\Repos\\RabbitMQ\\ReceiveRabbitMQ\\ReceiveRabbitMQ\\ReceiveRabbitMQ.csproj",
+      "projectUniqueName": "D:\\Nauka\\Repos\\RabbitMQ\\ReceiveRabbitMQ\\ReceiveRabbitMQ\\Receiver.csproj",
+      "projectName": "Receiver",
+      "projectPath": "D:\\Nauka\\Repos\\RabbitMQ\\ReceiveRabbitMQ\\ReceiveRabbitMQ\\Receiver.csproj",
       "packagesPath": "C:\\Users\\mrocz\\.nuget\\packages\\",
       "outputPath": "D:\\Nauka\\Repos\\RabbitMQ\\ReceiveRabbitMQ\\ReceiveRabbitMQ\\obj\\",
       "projectStyle": "PackageReference",
