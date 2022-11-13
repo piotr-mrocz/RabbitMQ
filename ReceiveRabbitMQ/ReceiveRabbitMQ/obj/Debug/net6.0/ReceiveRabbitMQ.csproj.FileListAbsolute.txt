@@ -1,0 +1,17 @@
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\bin\Debug\net6.0\ReceiveRabbitMQ.exe
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\bin\Debug\net6.0\ReceiveRabbitMQ.deps.json
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\bin\Debug\net6.0\ReceiveRabbitMQ.runtimeconfig.json
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\bin\Debug\net6.0\ReceiveRabbitMQ.dll
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\bin\Debug\net6.0\ReceiveRabbitMQ.pdb
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\obj\Debug\net6.0\ReceiveRabbitMQ.csproj.AssemblyReference.cache
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\obj\Debug\net6.0\ReceiveRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\obj\Debug\net6.0\ReceiveRabbitMQ.AssemblyInfoInputs.cache
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\obj\Debug\net6.0\ReceiveRabbitMQ.AssemblyInfo.cs
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\obj\Debug\net6.0\ReceiveRabbitMQ.csproj.CoreCompileInputs.cache
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\obj\Debug\net6.0\ReceiveRabbitMQ.csproj.CopyComplete
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\obj\Debug\net6.0\ReceiveRabbitMQ.dll
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\obj\Debug\net6.0\refint\ReceiveRabbitMQ.dll
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\obj\Debug\net6.0\ReceiveRabbitMQ.pdb
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\obj\Debug\net6.0\ReceiveRabbitMQ.genruntimeconfig.cache
+D:\Nauka\Repos\RabbitMQ\ReceiveRabbitMQ\ReceiveRabbitMQ\obj\Debug\net6.0\ref\ReceiveRabbitMQ.dll
