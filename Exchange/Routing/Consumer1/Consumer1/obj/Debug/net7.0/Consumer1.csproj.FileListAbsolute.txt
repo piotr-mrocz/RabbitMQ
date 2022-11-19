@@ -1,0 +1,17 @@
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\bin\Debug\net7.0\Consumer1.exe
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\bin\Debug\net7.0\Consumer1.deps.json
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\bin\Debug\net7.0\Consumer1.runtimeconfig.json
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\bin\Debug\net7.0\Consumer1.dll
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\bin\Debug\net7.0\Consumer1.pdb
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\obj\Debug\net7.0\Consumer1.csproj.AssemblyReference.cache
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\obj\Debug\net7.0\Consumer1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\obj\Debug\net7.0\Consumer1.AssemblyInfoInputs.cache
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\obj\Debug\net7.0\Consumer1.AssemblyInfo.cs
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\obj\Debug\net7.0\Consumer1.csproj.CoreCompileInputs.cache
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\obj\Debug\net7.0\Consumer1.csproj.CopyComplete
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\obj\Debug\net7.0\Consumer1.dll
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\obj\Debug\net7.0\refint\Consumer1.dll
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\obj\Debug\net7.0\Consumer1.pdb
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\obj\Debug\net7.0\Consumer1.genruntimeconfig.cache
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Consumer1\Consumer1\obj\Debug\net7.0\ref\Consumer1.dll

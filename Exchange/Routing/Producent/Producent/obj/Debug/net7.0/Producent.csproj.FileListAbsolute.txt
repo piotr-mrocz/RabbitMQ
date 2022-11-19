@@ -1,0 +1,17 @@
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\bin\Debug\net7.0\Producent.exe
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\bin\Debug\net7.0\Producent.deps.json
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\bin\Debug\net7.0\Producent.runtimeconfig.json
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\bin\Debug\net7.0\Producent.dll
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\bin\Debug\net7.0\Producent.pdb
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\obj\Debug\net7.0\Producent.csproj.AssemblyReference.cache
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\obj\Debug\net7.0\Producent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\obj\Debug\net7.0\Producent.AssemblyInfoInputs.cache
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\obj\Debug\net7.0\Producent.AssemblyInfo.cs
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\obj\Debug\net7.0\Producent.csproj.CoreCompileInputs.cache
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\obj\Debug\net7.0\Producent.csproj.CopyComplete
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\obj\Debug\net7.0\Producent.dll
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\obj\Debug\net7.0\refint\Producent.dll
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\obj\Debug\net7.0\Producent.pdb
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\obj\Debug\net7.0\Producent.genruntimeconfig.cache
+D:\Nauka\Repos\RabbitMQ\Exchange\Routing\Producent\Producent\obj\Debug\net7.0\ref\Producent.dll
