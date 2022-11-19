@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Subscriber2
-build_property.ProjectDir = D:\Nauka\Repos\RabbitMQ\Exchange\Subscriber2\Subscriber2\
+build_property.ProjectDir = D:\Nauka\Repos\RabbitMQ\Exchange\Publish_Subscribe\Subscriber2\Subscriber2\
