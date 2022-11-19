@@ -120,11 +120,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nauka\\Repos\\RabbitMQ\\Exchange\\Subscriber\\Subscriber\\Subscriber.csproj",
+      "projectUniqueName": "D:\\Nauka\\Repos\\RabbitMQ\\Exchange\\Publish_Subscribe\\Subscriber\\Subscriber\\Subscriber.csproj",
       "projectName": "Subscriber",
-      "projectPath": "D:\\Nauka\\Repos\\RabbitMQ\\Exchange\\Subscriber\\Subscriber\\Subscriber.csproj",
+      "projectPath": "D:\\Nauka\\Repos\\RabbitMQ\\Exchange\\Publish_Subscribe\\Subscriber\\Subscriber\\Subscriber.csproj",
       "packagesPath": "C:\\Users\\mrocz\\.nuget\\packages\\",
-      "outputPath": "D:\\Nauka\\Repos\\RabbitMQ\\Exchange\\Subscriber\\Subscriber\\obj\\",
+      "outputPath": "D:\\Nauka\\Repos\\RabbitMQ\\Exchange\\Publish_Subscribe\\Subscriber\\Subscriber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
